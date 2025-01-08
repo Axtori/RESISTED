@@ -1,5 +1,5 @@
 # RESISTED
-A hub designed for Roblox Scripting in more than your own game.
+A repository designed for Roblox Scripting in more than your own game.
 
 -------
 # Products
